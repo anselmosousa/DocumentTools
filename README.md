@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10%2B-blue?logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Platform-Android%20%7C%20Linux%20%7C%20macOS-green"/>
-  <img src="https://img.shields.io/badge/License-AGPL-3.0-yellow"/>
+  <img src="https://img.shields.io/badge/License-AGPL-yellow"/>
   <img src="https://img.shields.io/badge/Status-Ativo-brightgreen"/>
   <img src="https://img.shields.io/badge/Termux-Compatível-black?logo=android"/>
 </p>
